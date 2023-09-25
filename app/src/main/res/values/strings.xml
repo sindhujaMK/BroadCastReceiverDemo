@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">BroadCastReceiverDemo</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="image_icon_view">Image Icon View</string>
+    <string name="percentage">Percentage:</string>
+    <string name="notification">Notification</string>
+    <string name="battery_status">Battery Status:</string>
+    <string name="sub_notifications">Sub Notifications</string>
+    <string name="welcome_to_second_activity">Welcome to Second Activity</string>
+</resources>
